@@ -16,3 +16,7 @@ Dataset attributes:
 12. number of major vessels (0-3) colored by flourosopy
 13. thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
 The names and social security numbers of the patients were recently removed from the database, replaced with dummy values.
+
+# Documentation
+
+Project report: [Heart Disease Prediction.pdf](https://github.com/user-attachments/files/20370581/Heart.Disease.Prediction.pdf)
